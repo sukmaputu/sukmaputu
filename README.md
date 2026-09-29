@@ -325,31 +325,12 @@ TypeScript
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sukmaputu&bg_color=0d1117&color=c9d1d9&line=02cdff&point=ffffff&area_color=02cdff&area=true&hide_border=true&custom_title=Sukma's%20Contribution%20Activity" />
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sukmaputu&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sukmaputu/sukmaputu/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
