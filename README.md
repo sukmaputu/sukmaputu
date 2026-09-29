@@ -1,16 +1,49 @@
-## Hi there 👋
+             Hi, I'm I Putu Sukma Widyantara 👋
+       Telecommunication Engineering Student @ ITS
 
-<!--
-**sukmaputu/sukmaputu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       [ WEB ] [ NETWORKING ] [ EMBEDDED ] [ ROBOTICS ]
 
-Here are some ideas to get you started:
+────────────────────────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    👨‍💻 About Me
+
+     Telecommunication Engineering @ ITS
+     Web Development
+     Networking
+     RF & Antenna
+     Robotics & Embedded Systems
+
+────────────────────────────────────────────────────────
+
+                    🛠️ Tech Stack
+
+       HTML CSS JS TS React Next Vue Tailwind
+
+       Linux Docker Git GitHub Arduino ESP32
+
+────────────────────────────────────────────────────────
+
+                  🚀 What I'm Working On
+
+       🌐 Web Development       📡 RF & Antenna
+       🤖 Robotics              🌐 Networking
+
+────────────────────────────────────────────────────────
+
+                  📌 Featured Projects
+
+       Anargya ITS     Robotics
+       Antenna Design  SDN Security
+       Smart EV        Web Projects
+
+────────────────────────────────────────────────────────
+
+                 📊 GitHub Statistics
+
+              [ Contributions ] [ Languages ]
+
+                    🔥 Streak
+
+────────────────────────────────────────────────────────
+
+                    🤝 Let's Connect
